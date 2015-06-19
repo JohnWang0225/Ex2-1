@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ex2-1</string>
+    <string name="change_background_image">Change Image</string>
+    <string name="imageA">ImageA</string>
+    <string name="imageB">ImageB</string>
+    <string name="imageC">ImageC</string>
+
+    <string name="change_background_color">Change Color</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    
+</resources>
